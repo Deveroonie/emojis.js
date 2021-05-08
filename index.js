@@ -1,0 +1,6 @@
+const smile = '😃'
+const sad = '😭'
+const unamused = '😒'
+const rofl = '🤣'
+const heaven = '😇'
+const hell = '
